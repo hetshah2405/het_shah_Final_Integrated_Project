@@ -31,9 +31,7 @@
     padding-top: 20px;
  }
  
- 
- /* 2. ---Main Nav--- */
- 
+
   #main-nav label img {
     width: 20px;
     height: 20px;
@@ -46,8 +44,6 @@
  #main-nav input, #burger-con {
     display: none;
  }
- 
- /*   ~ sibling selector   */
  
  
  #main-nav input:checked ~ #burger-con {
